@@ -72,7 +72,7 @@ But like any partner, it needs review.
 Some of my snippets and utility functions live temporarily as GitHub Gists.
 They're like camping out until they earn a permanent home in my libraries.
 
-Check [my Gists](https://gist.github.com/) for experiments, early drafts, or code that escaped before I could put a license on it.
+Check my [Gists](https://gist.github.com/Bvisi0n) for experiments, early drafts, or code that escaped before I could put a license on it.
 
 ---
 
