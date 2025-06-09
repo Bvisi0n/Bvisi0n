@@ -37,7 +37,7 @@ No job-hunting here — just documenting the process and enjoying the ride.
 ## 📌 Guiding Principles
 
 - ✅ Clean, testable code > quick hacks  
-- 📚 Good code deserves great comments — Doxygen is not optional  
+- 📚 Clear documentation > assumptions  
 - 🧩 Systems > scripts  
 - 🧠 Understanding > memorization  
 - 🤖 AI-assisted, not AI-dependent  
