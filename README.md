@@ -4,7 +4,15 @@ I'm a student at **Digital Arts & Entertainment (DAE)** in Howest, Belgium —
 specializing in **C++ game development** and **animation mathematics**.
 
 I’m rebuilding my technical foundation after a break, combining prior training, work experience, and self-study into a focused dev journey.
-No job-hunting here — just documenting the process and enjoying the ride. *(Although I will accept praise and snacks.)*
+No job-hunting here — just documenting the process and enjoying the ride. *(Although I will accept code reviews and ripe bananas.)*
+
+> 🍌 **Fun fact:** I was born on **September 8, 1992** —  
+> the same day *Donkey Kong Country* launched in Japan.  
+> It’s also **World Great Ape Day**, and yes, my Chinese Zodiac sign is **Monkey**.
+
+Some say that’s coincidence.  
+I say it’s destiny. 🦍  
+Call me **Mr. Ape** — I build libraries, not banana piles.
 
 ---
 
@@ -32,7 +40,7 @@ No job-hunting here — just documenting the process and enjoying the ride. *(Al
 * Blender (hard surface modeling, UV unwrapping, basic texturing)
 * GitHub Copilot & ChatGPT (code assistant, not autopilot)
 * Markdown, Doxygen, Catch2
-* Audio hobbyist: FL Studio + NI Komplete 14 CE *(beats optional)*
+* Audio hobbyist: FL Studio + NI Komplete 14 CE *(beats optional, drums not required)*
 
 ---
 
@@ -44,6 +52,7 @@ No job-hunting here — just documenting the process and enjoying the ride. *(Al
 * 🧠 Understanding > memorization
 * 🤖 AI-assisted, not AI-dependent
 * 🚫 I don’t ship vibes, I ship working code
+* 🦍 Strong typing, strong builds, strong branches
 
 ---
 
@@ -76,4 +85,5 @@ Check my [Gists](https://gist.github.com/Bvisi0n) for experiments, early drafts,
 
 ---
 
-Thanks for visiting my corner of GitHub! You may now resume scrolling the void.
+Thanks for visiting my corner of GitHub!  
+You may now resume scrolling the void — but remember: **real devs swing through branches, not burn them.**
