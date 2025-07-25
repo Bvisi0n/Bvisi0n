@@ -59,5 +59,4 @@ Check my [Gists](https://gist.github.com/Bvisi0n) for math bits, engine glue, an
 ---
 
 Thanks for visiting my corner of GitHub.  
-Remember: **real devs swing through branches, not burn them.**  
-And if your code smells like bananas… that just means I’ve already been through there.
+These branches are where I grow my systems — feel free to swing by anytime.
