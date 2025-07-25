@@ -1,18 +1,16 @@
 # 👋 About Me
 
-I'm a student at **Digital Arts & Entertainment (DAE)** in Howest, Belgium —
-specializing in **C++ game development** and **animation mathematics**.
+I’m a **Digital Arts & Entertainment (DAE)** student at Howest (Belgium),
+specializing in **C++ game programming** with a focus on **game engine architecture and clean systems**.
 
-I'm rebuilding my technical foundation after a break, combining prior training, work experience, and self-study into a focused dev journey.
-No job-hunting here — just shipping systems, evolving workflows, and going full ape on the chaos. *(Bananas accepted in lieu of payment.)*
+I enjoy breaking complex problems into reusable libraries and building solid foundations that future games can rely on.
 
 > 🦍 **Fun fact:** I was born on **September 8, 1992** —  
 > the same day *Donkey Kong Country* launched in Japan.  
-> It’s also **World Great Ape Day**, and yes, my Chinese Zodiac sign is **Monkey**.
+> It’s also **World Great Ape Day**, and my Chinese Zodiac sign is **Monkey**.
 
-Some say that’s coincidence.  
-I say I was **born to swing through codebases and smash bad patterns.**  
-Call me **Mr. Ape**. My branches are clean, my commits are atomic, and I fear no merge conflict.
+Some call that coincidence.  
+I call it good instincts: I like my branches clean and my code structured.
 
 ---
 
