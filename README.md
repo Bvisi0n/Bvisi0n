@@ -45,16 +45,16 @@ The jungle didn’t get easier. **I just got stronger.**
 
 > AI doesn't replace expertise. It amplifies it — or exposes the lack of it.
 > *I used to sweat for hours to find the bug.
-> Now I sweat for seconds — to make sure Copilot didn’t leave a banana peel.*
+> Now I sweat for seconds — to make sure ChatGPT didn’t leave a banana peel.*
 
 ---
 
 ## 🧪 Bonus Gist Workflow
 
-Some of my utility functions live temporarily as GitHub Gists.
-Think of them as **baby chimps** — wild, untamed, and waiting to be adopted into a real library.
+Some of my early experiments and utility functions live as GitHub Gists —  
+still a bit wild, a bit primal, waiting to be adopted into a proper library.
 
-Check my [Gists](https://gist.github.com/Bvisi0n) for experiments, math bits, and early engine glue.
+Check my [Gists](https://gist.github.com/Bvisi0n) for math bits, engine glue, and small prototypes.
 
 ---
 
