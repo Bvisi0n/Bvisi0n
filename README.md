@@ -24,24 +24,6 @@ I call it good instincts: I like my branches clean and my code structured.
 
 ---
 
-## 🎮 Game Dev Focus
-
-**Current learning focus:**
-
-* Modern C++ (C++17/20), clean architecture, TDD
-* Animation math (vectors, matrices, transforms, kinematics)
-* Game systems thinking & reusability
-* Low-level engine-friendly code (less spaghetti, more banana-optimized C++)
-
-**Side tools:**
-
-* Blender (hard surface modeling, UV unwrapping, basic texturing)
-* GitHub Copilot & ChatGPT (code assistant, not jungle guide)
-* Markdown, Doxygen, Catch2
-* Audio hobbyist: FL Studio + NI Komplete 14 CE *(beats optional — groove mandatory)*
-
----
-
 ## 📌 Guiding Principles
 
 * ✅ Clean, testable code > quick hacks
@@ -49,8 +31,6 @@ I call it good instincts: I like my branches clean and my code structured.
 * 🧩 Systems > scripts
 * 🧠 Understanding > memorization
 * 🤖 AI-assisted, not AI-dependent
-* 🚫 I don’t ship vibes, I ship working code
-* 🍌 Good commits. Strong branches. Big brain.
 
 ---
 
