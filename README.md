@@ -20,7 +20,7 @@ I call it good instincts: I like my branches clean and my code structured.
 * 🎮 **2019–2020** — First run at DAE (quit due to Covid ruining on-campus experience)
 * 🛍️ **2018–2023** — Retail worker @ Kringloopwinkel Beveren-Leie
 * 🔌 **2023–2025** — Telecom technician @ Telenet (HFC networks, routing, Wi-Fi, IP config)
-* 🎓 **2025–Now** — Back at DAE — stronger, wiser, and banana-powered
+* 🎓 **2025–Now** — Back at DAE — focused on game programming, engine systems, and gameplay architecture
 
 ---
 
