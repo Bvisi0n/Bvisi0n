@@ -49,12 +49,14 @@ The jungle didn’t get easier. **I just got stronger.**
 
 ---
 
-## 🧪 Bonus Gist Workflow
+## 🧭 Connected Worlds
 
-Some of my early experiments and utility functions live as GitHub Gists —  
-still a bit wild, a bit primal, waiting to be adopted into a proper library.
+My creations roam freely across multiple domains — each one a branch of the same jungle:
 
-Check my [Gists](https://gist.github.com/Bvisi0n) for math bits, engine glue, and small prototypes.
+🕹️ [itch.io](https://bvisi0n.itch.io) — Game jam entries, playable builds, and prototypes
+🎧 [Freesound](https://freesound.org/people/Bvisi0n/) — SFX, ambient loops, and raw audio experiments
+🎼 [SoundCloud](https://soundcloud.com/jaro-de-graeve) — OST ideas, sketches, and moody project tracks
+💻 [GitHub Gists](https://gist.github.com/Bvisi0n) — Math tricks, systems glue, and bite-sized tools
 
 ---
 
