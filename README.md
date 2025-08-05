@@ -53,9 +53,9 @@ The jungle didn’t get easier. **I just got stronger.**
 
 My creations roam freely across multiple domains — each one a branch of the same jungle:
 
-🕹️ [itch.io](https://bvisi0n.itch.io) — Game jam entries, playable builds, and prototypes
-🎧 [Freesound](https://freesound.org/people/Bvisi0n/) — SFX, ambient loops, and raw audio experiments
-🎼 [SoundCloud](https://soundcloud.com/jaro-de-graeve) — OST ideas, sketches, and moody project tracks
+🕹️ [itch.io](https://bvisi0n.itch.io) — Game jam entries, playable builds, and prototypes  
+🎧 [Freesound](https://freesound.org/people/Bvisi0n/) — SFX, ambient loops, and raw audio experiments  
+🎼 [SoundCloud](https://soundcloud.com/jaro-de-graeve) — OST ideas, sketches, and moody project tracks  
 💻 [GitHub Gists](https://gist.github.com/Bvisi0n) — Math tricks, systems glue, and bite-sized tools
 
 ---
