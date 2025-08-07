@@ -44,8 +44,6 @@ not in hours, but in minutes.
 The jungle didn’t get easier. **I just got stronger.**
 
 > AI doesn't replace expertise. It amplifies it — or exposes the lack of it.
-> *I used to sweat for hours to find the bug.
-> Now I sweat for seconds — to make sure ChatGPT didn’t leave a banana peel.*
 
 ---
 
