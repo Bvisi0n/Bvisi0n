@@ -39,7 +39,7 @@ I call it good instincts: I like my branches clean and my code structured.
 I hail from the pre-AI era — back when code was carved into stone tablets and bugs were hunted through the tall grass with nothing but a stick and a grimace.
 Then I discovered the force. Not the boring, movie kind — the real one. The kind that flows through the jungle canopy, humming with raw power, tempting you with speed and convenience. I trained with it. I prompted with purpose. I wielded it like a lightsaber carved from the purest banana crystal.
 
-But the Dark Side is sly. My hands-on skills began to slip. I faced my ancient nemesis — the cursed for loop — and fumbled like a chimp trying to rewire a coconut. The knowledge was still there, buried deep in the vines, but the muscle memory had started to fade.
+onceBut the Dark Side is sly. My hands-on skills began to slip. I once again faced my ancient nemesis — the cursed for loop — and fumbled like a chimp trying to rewire a coconut. The knowledge was still there, buried deep in the vines, but the muscle memory had started to fade.
 
 From my treetop perch, I saw it everywhere — young padawans, swinging fearlessly while their AI vine was strong… but plummeting the moment it was cut. I was different — but not for much longer. My mastery of the Code Force was growing, but my ability to simply type was slipping into the undergrowth.
 
