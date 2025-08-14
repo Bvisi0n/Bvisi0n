@@ -47,9 +47,9 @@ This could not stand.
 
 I turned from the Dark Side. I forged the Way of the Balanced Ape. Autocomplete was banished from my jungle. AI was forbidden from handing me ready-made code. Its role was stripped to a single, humble task: save me the endless hours I’d waste wandering through the sacred halls of cppreference and the forsaken ruins of Stack Overflow.
 
-I code in two modes:
-**Mastery mode** — Autocomplete off, hints only, code snippets as if you'd find it in the sacred cppreference scrolls, I do the work. This keeps my ape-grip strong and my reflexes sharp.
-**Beast mode** — Autocomplete on, sabers swinging, tearing through jams, competitions, and delivery sprints faster than a rhino on a banana run.
+I code in two modes:  
+**Mastery mode** — Autocomplete off, hints only, code snippets as if you'd find it in the sacred cppreference scrolls, I do the work. This keeps my ape-grip strong and my reflexes sharp.  
+**Beast mode** — Autocomplete on, sabers swinging, tearing through jams, competitions, and delivery sprints faster than a rhino on a banana run.  
 
 ---
 
