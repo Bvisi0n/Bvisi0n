@@ -1,1 +1,1 @@
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bvisi0n&layout=compact)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=Bvisi0n&layout=compact&langs_count=10&theme=github_dark)](https://github-stats-extended.vercel.app/api/top-langs?username=Bvisi0n&layout=compact&langs_count=10&theme=github_dark)
