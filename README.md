@@ -1,1 +1,1 @@
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=Bvisi0n&layout=compact&langs_count=10&theme=github_dark)](https://github-stats-extended.vercel.app/api/top-langs?username=Bvisi0n&layout=compact&langs_count=10&theme=github_dark)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=Bvisi0n&layout=compact&langs_count=10&theme=dark_github)](https://github-stats-extended.vercel.app/api/top-langs?username=Bvisi0n&layout=compact&langs_count=10&theme=dark_github&size_weight=0.75&count_weight=0.25)
