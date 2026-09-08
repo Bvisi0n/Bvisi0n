@@ -1,1 +1,1 @@
-![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=Bvisi0n&layout=compact&langs_count=10&theme=dark_github&size_weight=0.75&count_weight=0.25&v=1)
+![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=Bvisi0n&layout=compact&langs_count=10&theme=dark_github&size_weight=0.75&count_weight=0.25&v=1788863544)
