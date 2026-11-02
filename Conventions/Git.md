@@ -1,4 +1,4 @@
-# Git Workflow
+# Git Conventions
 
 ## Git Commits
 Prefer one logical change per commit.
